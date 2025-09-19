@@ -59,7 +59,7 @@ bash tiny_download.sh
 If you find our work helpful, please cite our paper by the following reference:
 
 ```
-@inproceedings{author2025title,
+@inproceedings{tong2025csrel,
   title={Coreset Selection via Reducible Loss in Continual Learning},
   author={Ruilin Tong, Yuhang Liu, Javen Qinfeng Shi, Dong Gong},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR)},
